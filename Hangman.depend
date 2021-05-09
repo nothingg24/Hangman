@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1620532856 source:d:\hangman\hangman\draw.cpp
+	<iostream>
+	<cstdlib>
+	<chrono>
+	<thread>
+	<windows.h>
+	<iomanip>
+
+1620537897 source:d:\hangman\hangman\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<chrono>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	<thread>
+	<MMSystem.h>
+	"draw.h"
+
+1620537897 d:\hangman\hangman\draw.h
+	<iostream>
+
+1620489354 source:d:\hangman\hangman\utility.cpp
+
