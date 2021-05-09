@@ -1,1 +1,2 @@
-# Hangman
+Hangman Game
+Created by nothingg
